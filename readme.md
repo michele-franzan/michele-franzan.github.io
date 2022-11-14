@@ -5,6 +5,6 @@ I think you're lost but I'll try my best to make you feel safe.
 
 I'm Michele, you're guide in this impervious website.
 
-But firts things first:
+But first things first:
 
 ![sword](asset/sword.gif)
