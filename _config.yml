@@ -3,5 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+remote_theme: alshedivat/al-folio
 include:
   - readme.md
